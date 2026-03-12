@@ -10,7 +10,7 @@ No copyright infringement is intended and this project is not used for commercia
 
 A retro-style platformer game inspired by classic Mario games, featuring members of Blink-182 as playable characters.
 
-🎮 **Play the game here:**
+## 🎮 **Play the game here:**
 https://rrovanno.itch.io/blink182-dude-wheres-our-stage
 
 ## 🎮 Game Overview
