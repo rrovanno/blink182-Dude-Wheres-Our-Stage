@@ -1,5 +1,13 @@
 # Blink-182: Dude, Where’s Our Stage?
 
+## Disclaimer
+
+This project is a fan-made game created for educational and portfolio purposes.
+
+Blink-182 and all related names, music, and trademarks belong to their respective owners.
+
+No copyright infringement is intended and this project is not used for commercial purposes.
+
 A retro-style platformer game inspired by classic Mario games, featuring members of Blink-182 as playable characters.
 
 🎮 **Play the game here:**
