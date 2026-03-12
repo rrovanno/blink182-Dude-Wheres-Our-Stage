@@ -39,6 +39,15 @@ Finished
 ![Level 3](Screenshots/level3.png)
 ![Level 4](Screenshots/level4.png)
 
+## Development Notes
+
+This game was developed using the Godot Engine as a retro-style platformer project.
+
+Key systems implemented include:
+- Player movement and jumping physics
+- Enemy hazard system
+- Level design and platform challenges
+
 ## 👨‍💻 Developer
 Created by Rovanno Raaf.
 
