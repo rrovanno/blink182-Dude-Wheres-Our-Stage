@@ -26,6 +26,11 @@ Help the band travel through dangerous levels to recover their stage equipment.
 Finished
 
 ## 📸 Screenshots
+![Main Menu](screenshots/MainMenu.png)
+![Level 1](screenshots/level1.png)
+![Level 2](screenshots/level2.png)
+![Level 3](screenshots/level3.png)
+![Level 4](screenshots/level4.png)
 
 ## 👨‍💻 Developer
 Created by Rovanno Raaf.
