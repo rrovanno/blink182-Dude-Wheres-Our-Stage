@@ -41,3 +41,7 @@ Finished
 
 ## 👨‍💻 Developer
 Created by Rovanno Raaf.
+
+© 2026 Rovanno Raaf
+
+Code licensed under the MIT License.
